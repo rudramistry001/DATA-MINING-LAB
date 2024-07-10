@@ -1,0 +1,14 @@
+Sr.no,Divison,Name,City@relation employee_data
+
+@attribute Sr_no numeric
+@attribute Division {QC}
+@attribute Name string
+@attribute City {Vaodara, Ahemdabad, Rajkot, Gandhinagar, Surat}
+
+@data
+1,QC,'Rudra H Mistry',Vaodara
+2,QC,'Samir P Mistry',Ahemdabad
+3,QC,'Kush Pancholi',Rajkot
+4,QC,'Kavya S Pancholi',Gandhinagar
+5,QC,'Aayan Memon',Ahemdabad
+6,QC,'Shrey Panchal',Surat
